@@ -1,1 +1,64 @@
-Project: Photoelectric Effect Data Analysis
+Report : 
+
+China is the largest CO₂ emitter globally, followed by the United States and India.
+Global emissions show a strong increasing trend, especially after 2000.
+Developed countries like the US, UK, and Germany have reduced emissions over time.
+Temporary declines are observed during global crises such as the 2008 recession and COVID-19.
+Developing nations show rising emissions due to industrial growth.
+
+
+
+## Introduction
+
+This analysis uses a dataset from the World Bank containing country-wise CO₂ emissions over multiple years.
+
+The objective of this project is to analyze global emission trends, identify the top contributing countries, and understand how emissions have changed over time. 
+
+
+## Data Cleaning
+
+- The dataset contained extra header rows, which were removed using `skiprows`.
+- Missing values were handled using forward fill (`ffill`) to preserve time-series continuity.
+- Unnecessary columns such as 'Indicator Code' were dropped.
+- Data types were corrected, especially for year columns.
+- The dataset was transformed from wide format to long format using `melt()` for better analysis.  
+
+
+
+## Exploratory Data Analysis
+
+- Distribution of CO₂ emissions was analyzed using histograms.
+- Country-wise average emissions were calculated.
+- Time-series trends were studied to observe emission changes over years.
+- Top emitting countries were identified for the most recent year.
+
+
+
+## Visualizations
+
+The following visualizations were used:
+
+- Histogram to understand emission distribution
+- Line plots to analyze trends over time
+- Bar charts to compare top emitting countries
+- Heatmaps to visualize country-year emission patterns
+
+
+
+## Key Insights
+
+- China is the largest contributor to CO₂ emissions in recent years.
+- Global emissions have shown a strong increasing trend, especially after 2000.
+- Developed countries like the United States and Germany show a declining trend in emissions.
+- Developing countries such as India show steady growth in emissions.
+- Temporary drops in emissions are observed during global crises such as the 2008 financial crisis and COVID-19 pandemic.
+
+
+
+## Conclusion
+
+This analysis highlights the growing challenge of global CO₂ emissions, driven largely by industrial growth in developing countries.
+
+While some developed nations have successfully reduced emissions, overall global emissions continue to rise. This suggests a need for stronger global policies and sustainable energy adoption.
+
+Future analysis can include deeper investigation into sector-wise emissions and policy impacts. 
