@@ -1,2 +1,22 @@
 Amazon Stock Data 2025
 
+Dataset Description
+The Amazon Stock Data 2025 dataset provides comprehensive historical stock market data for Amazon.com, Inc. (AMZN), 
+covering the period from May 1997 to February 2025. The dataset includes daily trading information such as opening price, 
+closing price, highest and lowest prices, adjusted closing price, and trading volume.
+
+Amazon is one of the world’s largest technology and e-commerce companies. As of February 2025, Amazon holds a market 
+capitalization of $2.362 trillion USD, making it one of the most valuable companies globally. The dataset reflects 
+Amazon’s growth trajectory from its early public trading years to its position as a dominant multinational corporation.
+
+This dataset is suitable for financial analysis, time series forecasting, algorithmic trading research, volatility 
+modeling, and machine learning applications.
+
+
+
+Covers over 27 years of historical stock data
+Daily stock price movements (Open, High, Low, Close)
+Adjusted closing prices accounting for stock splits and dividends
+Trading volume for liquidity and market activity analysis
+Suitable for ARIMA, LSTM, regression, and deep learning models
+Ready for visualization and financial analytics
