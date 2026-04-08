@@ -1,0 +1,19 @@
+Spotify Global Trends & Popularity Analysis
+Detailed Analysis of Worldwide Track Performance and Artist Popularity
+
+Dataset Overview
+This dataset provides a comprehensive numerical and categorical summary of the modern music streaming landscape. 
+Its primary objective is to track market shifts, measure the popularity of specific tracks, and analyze the global 
+reach of various artists.
+
+Data Set Metrics:
+Each entry in the dataset represents a specific track and includes a variety of performance metrics. Core quantitative 
+data such as Total Streams and 7-Day Performance illustrate the overall reach of a song, while Stream Change indicates 
+the daily growth or decline in listenership. A unique feature of this data is the Viral Score, which measures social 
+media engagement and the "shareability" of a track. Additionally, metadata like Genre and Country allow for an analysis 
+of how different styles such as K-Pop, Hip Hop, or Pop perform in specific geographic regions.
+
+Categorization and Trend Analysis:
+The dataset is highly structured using specific labels to define a song’s current status in the market. Movement is 
+tracked via the Trend column (labeled as Rising or Falling). Furthermore, popularity is classified as either Trending 
+or Average to help distinguish immediate hits from standard performance.

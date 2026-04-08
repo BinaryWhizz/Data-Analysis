@@ -1,0 +1,14 @@
+Uber SQL database
+A relational database modelling a ride-sharing platform
+
+RideShare SQL Dataset
+A synthetic, Kaggle-ready relational database modelling a ride-sharing platform (Uber/Lyft-style). Designed for 
+progressive SQL practice — from basic SELECT statements to advanced window functions and CTEs — using realistic business 
+patterns: surge pricing, driver churn, cohort analysis, and more.
+
+
+File	                              Description
+rideshare.db	----    Pre-built SQLite database — open instantly, no install required
+schema.sql	    ----    DDL + all INSERT INTO statements (MySQL / PostgreSQL / SQLite compatible)
+notebook.ipynb	----    60-question interactive SQL notebook (Beginner → Intermediate → Advanced)
+

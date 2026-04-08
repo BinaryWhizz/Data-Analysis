@@ -1,0 +1,13 @@
+Global Fuel Price Trends (1970–2026)
+
+The file fuel_prices_1970_2026.csv is a CSV dataset providing data on fuel prices from 1970 to 2026. It allows users to 
+examine how fuel prices have fluctuated over time by tracking trends over several decades. The dataset is helpful for 
+researching long term trends in the global energy market as well as for data analysis and visualization. This file can be 
+used by researchers, students, and data analysts to investigate changes in fuel prices and carry out trend or prediction 
+analysis. 
+
+Context:
+Due to geopolitical events, global demand, and economic conditions, fuel prices have fluctuated dramatically over time. 
+This dataset helps users comprehend long term shifts in the energy sector by displaying fuel price patterns from 1970 to 
+2026. It can be applied to research, data analysis, and visualization. Students and data science learners investigiating 
+past fuel price trends can benefit from the dataset.
