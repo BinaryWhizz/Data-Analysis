@@ -1,1 +1,59 @@
 Fake vs Real News Detection Dataset
+
+
+DATA ANALYSIS REPORT
+
+1. Data Cleaning Summary
+- No missing values found
+- No duplicate issues observed
+- Data types are correct
+- Dataset size: 1000 rows, 10 columns
+- Label converted to numeric for analysis (fake=0, real=1) 
+
+
+2. EDA (Key Findings)
+
+A. Class Distribution
+- Real news ≈ 48.5%
+- Fake news ≈ 51.5%
+
+B. Source Credibility vs Label
+Correlation: +0.58
+
+- Higher credibility → more real news
+- Strong positive relationship 
+
+C. Number of Citations vs Label
+Correlation: +0.77 (strong)
+
+- Articles with more citations are highly likely to be real
+- This is one of the strongest indicators
+
+D. Clickbait Score vs Label
+Correlation: -0.90 (EXTREMELY STRONG)
+
+- Higher clickbait → strongly associated with fake news
+- This is the most powerful feature in dataset
+
+E. Sentiment Score
+Correlation: ~ 0 (no relationship)
+
+- Sentiment does not influence fake vs real
+
+F. Readability Score
+Correlation: ~ 0 (very weak)
+
+- Readability is not a strong indicator
+
+G. Author Analysis
+Author	               Real News Ratio
+staff_writer	           ~50%
+verified_journalist	       ~49%
+unknown_source	           ~45% 
+
+
+
+Final Conclusion
+
+Fake news is strongly characterized by high clickbait, low credibility, and fewer citations, while real news tends to have higher credibility 
+and more references. Traditional text features like sentiment or readability are not reliable indicators. 
