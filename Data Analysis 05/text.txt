@@ -9,3 +9,4 @@ The selection criteria may be different from that used in CMS physics results.
 Acknowledgements
 Cite as: McCauley, Thomas; (2014). https://opendata.cern.ch/record/304
 
+Goal: Understand particle properties 
