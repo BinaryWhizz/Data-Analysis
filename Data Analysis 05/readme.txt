@@ -1,4 +1,4 @@
-CERN Electron Collision Data
+European Organization for Nuclear Research (CERN) Electron Collision Data
 Particle collision events with two electrons
 
 Context : 
