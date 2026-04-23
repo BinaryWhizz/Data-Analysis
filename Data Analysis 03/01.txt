@@ -57,8 +57,10 @@ The following visualizations were used:
 
 ## Conclusion
 
-This analysis highlights the growing challenge of global CO₂ emissions, driven largely by industrial growth in developing countries.
+This analysis highlights the growing challenge of global CO₂ emissions, driven largely by industrial growth in 
 
-While some developed nations have successfully reduced emissions, overall global emissions continue to rise. This suggests a need for stronger global policies and sustainable energy adoption.
+developing countries. While some developed nations have successfully reduced emissions, 
 
-Future analysis can include deeper investigation into sector-wise emissions and policy impacts. 
+overall global emissions continue to rise. This suggests a need for stronger global policies and sustainable energy 
+
+adoption. Future analysis can include deeper investigation into sector-wise emissions and policy impacts. 
