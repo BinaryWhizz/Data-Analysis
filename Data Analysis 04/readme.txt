@@ -122,9 +122,25 @@ Survivors extend over longer time
 
 
 
+Conclusion :
 
 While mutation burden (TMB and mutation count) shows slight trends with survival, statistical testing confirms that 
 these factors alone are not sufficient predictors of patient outcomes in AML.
 Instead, specific gene mutations (e.g., NPM1, DNMT3A) appear more biologically relevant and may serve as better 
 indicators of disease progression.
 
+
+
+Project Story :
+
+Worked on a cancer genomics dataset from TCGA focusing on Acute Myeloid Leukemia. The goal was to understand whether 
+genetic mutation patterns—like mutation burden and specific gene mutations—affect patient survival.
+
+Combined three datasets: clinical survival data, tumor-level mutation burden, and gene-level mutation records. 
+After cleaning and merging them, engineered the features like total mutation count and high-impact mutation counts.
+
+Through exploratory and statistical analysis, found that overall mutation burden does not significantly impact survival,
+but specific genes like NPM1 and DNMT3A appear frequently and are likely more biologically relevant.
+
+This showed me that in medical datasets, aggregate metrics can be misleading, and deeper gene-level analysis is more 
+meaningful
