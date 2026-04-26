@@ -106,9 +106,9 @@ High    --- ~19.41 months
 
 Correlation Analysis -----------
 
-TMB ↔ Mutation Count → ~1.0 (very strong)
-TMB ↔ Survival → ~0.26 (weak)
-Mutation Count ↔ Survival → ~0.26 (weak)
+TMB - Mutation Count --- ~1.0 (very strong)
+TMB - Survival --- ~0.26 (weak)
+Mutation Count - Survival --- ~0.26 (weak)
 
 
 
